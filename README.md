@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on **sceneacte**
+- 🔭 I’m currently working on [sceneacte](https://github.com/Jules-Pinsard/scenacte)
 
 - 🌱 I’m currently learning **Django and Tailwind**
 
